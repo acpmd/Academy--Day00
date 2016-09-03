@@ -1,0 +1,6 @@
+Credentials cache: API:21132
+        Principal: averbitc@42.FR
+
+  Issued                Expires               Principal
+Aug 29 16:00:14 2016  Aug 30 02:00:15 2016  krbtgt/42.FR@42.FR
+Aug 29 16:00:53 2016  Aug 30 02:00:15 2016  host/vgs-fn1.42.fr@42.FR
